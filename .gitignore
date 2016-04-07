@@ -1,5 +1,8 @@
 # Backup files
 *~
+# Image files
+*.jpg
+*.png
 
 # Object files
 *.o
