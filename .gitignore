@@ -2,6 +2,7 @@
 *~
 # Image files
 *.jpg
+*.JPG
 *.png
 
 # Object files
